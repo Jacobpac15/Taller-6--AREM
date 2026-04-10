@@ -1,4 +1,4 @@
-# Taller 6 – Checklist de Cumplimiento Normativo: GobData
+# Taller 6 - Parte 1 – Checklist de Cumplimiento Normativo: GobData
 
 > **Asignatura:** Arquitectura Empresarial
 > **Actividad:** Taller 6 – Evaluación de Cumplimiento Normativo  
