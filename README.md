@@ -67,7 +67,7 @@ El checklist cubre **9 categorías normativas**, cada una con criterios de cumpl
 
 ---
 
-## 🔍 Metodología de evaluación
+##  Metodología de evaluación
 
 Cada criterio fue evaluado con base en:
 
