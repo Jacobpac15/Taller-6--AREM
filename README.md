@@ -1,8 +1,8 @@
 # Taller 6 – Checklist de Cumplimiento Normativo: GobData
 
-> **Asignatura:** Seguridad y Protección de Datos  
+> **Asignatura:** Arquitectura Empresarial
 > **Actividad:** Taller 6 – Evaluación de Cumplimiento Normativo  
-> **Sistema analizado:** GobData – Portal de Trámites Ciudadanos
+> **Integrantes:** Jacobo Pacheco, Juan Diego Martinez, Santiago Navarro Cuy, David Santiago Medina
 
 ---
 
